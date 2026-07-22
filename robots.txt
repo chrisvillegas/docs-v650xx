@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nxsw86.achismo.com/sitemap.xml
